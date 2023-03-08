@@ -31,7 +31,12 @@
                 <p><span>Email:</span> <br><br>iqbaalrith@gmail.com</p>
             </li>
             <li>
-                <p><span>Phone:</span> <br><br><a href="https://wa.me/60189754305">Whatsapp Only</a></p>
+                <p>
+                    <span>Phone:</span> <br><br>
+                    <a href="https://wa.me/60189754305" target="_blank">
+                        <i class="fab fa-whatsapp" style="color: green;"></i> Whatsapp Only
+                    </a>
+                </p>
             </li>
             <li>
                 <p><span>Address:</span> <br><br>Shah Alam, Selangor</p>

@@ -25,7 +25,6 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/colors/blue.css" id="color" />
 
-
     <!-- Google Web fonts
 ================================================== -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900" rel="stylesheet">
@@ -34,6 +33,8 @@
 ================================================== -->
     <link rel="stylesheet" href="icon-fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
     <link rel="stylesheet" href="icon-fonts/web-design/flaticon.css" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
 
     <!--[if lt IE 9]>
 	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
