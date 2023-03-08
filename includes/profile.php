@@ -31,13 +31,13 @@
                 <p><span>Email:</span> <br><br>iqbaalrith@gmail.com</p>
             </li>
             <li>
-                <p><span>Phone:</span> <br><br>+60 18-975 4305</p>
+                <p><span>Phone:</span> <br><br><a href="https://wa.me/60189754305">Whatsapp Only</a></p>
             </li>
             <li>
                 <p><span>Address:</span> <br><br>Shah Alam, Selangor</p>
             </li>
         </ul>
-        <div class="col-md-12">
+        <div class=" col-md-12">
             <button class="site-btn icon hidden-xs" onclick="sendEmail()">Hire Me <i class="fa fa-paper-plane" aria-hidden="true"></i></button>
         </div>
     </div>
