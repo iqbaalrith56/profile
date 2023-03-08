@@ -33,8 +33,11 @@
             <li>
                 <p>
                     <span>Phone:</span> <br><br>
-                    <a href="https://wa.me/60189754305" target="_blank">
-                        <i class="fab fa-whatsapp" style="color: green;"></i> Whatsapp Only
+                    <a href="https://wa.me/60189754305" target="_blank" style="text-decoration: none; color: white;">
+                        <button style="background-color: #25D366; color: white; font-size: 16px; border: none; border-radius: 8px; padding: 12px 24px; display: flex; align-items: center;">
+                            <i class="fab fa-whatsapp" style="margin-right: 8px;"></i>
+                            <span style="font-weight: bold; color: white;">Whatsapp Only</span>
+                        </button>
                     </a>
                 </p>
             </li>
